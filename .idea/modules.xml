@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaSe/javaSe.iml" filepath="$PROJECT_DIR$/javaSe/javaSe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-consumer/spring-cloud-alibaba-dubbo-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-consumer/spring-cloud-alibaba-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-consumer/spring-cloud-alibaba-dubbo-consumer-service/spring-cloud-alibaba-dubbo-consumer-service.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-consumer/spring-cloud-alibaba-dubbo-consumer-service/spring-cloud-alibaba-dubbo-consumer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-core/spring-cloud-alibaba-dubbo-core.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-core/spring-cloud-alibaba-dubbo-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-dependencies/spring-cloud-alibaba-dubbo-dependencies.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-dependencies/spring-cloud-alibaba-dubbo-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-examples.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-nacos/spring-cloud-alibaba-dubbo-nacos.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-nacos/spring-cloud-alibaba-dubbo-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-provider/spring-cloud-alibaba-dubbo-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-provider/spring-cloud-alibaba-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-provider/spring-cloud-alibaba-dubbo-provider-api/spring-cloud-alibaba-dubbo-provider-api.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-provider/spring-cloud-alibaba-dubbo-provider-api/spring-cloud-alibaba-dubbo-provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-provider/spring-cloud-alibaba-dubbo-provider-service/spring-cloud-alibaba-dubbo-provider-service.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-provider/spring-cloud-alibaba-dubbo-provider-service/spring-cloud-alibaba-dubbo-provider-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-starter/spring-cloud-alibaba-dubbo-starter.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba-dubbo-starter/spring-cloud-alibaba-dubbo-starter.iml" />
+    </modules>
+  </component>
+</project>

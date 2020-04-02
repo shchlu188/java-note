@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-alibaba-dubbo-nacos" />
+        <module name="spring-cloud-alibaba-dubbo-core" />
+        <module name="spring-cloud-alibaba-dubbo-consumer-service" />
+        <module name="spring-cloud-alibaba-dubbo-provider-service" />
+        <module name="spring-cloud-alibaba-dubbo-provider-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-alibaba" target="1.8" />
+      <module name="spring-cloud-alibaba-dubbo-consumer" target="1.8" />
+      <module name="spring-cloud-alibaba-dubbo-consumer-service" target="1.8" />
+      <module name="spring-cloud-alibaba-dubbo-core" target="1.8" />
+      <module name="spring-cloud-alibaba-dubbo-dependencies" target="1.8" />
+      <module name="spring-cloud-alibaba-dubbo-examples" target="1.8" />
+      <module name="spring-cloud-alibaba-dubbo-nacos" target="1.8" />
+      <module name="spring-cloud-alibaba-dubbo-provider" target="1.8" />
+      <module name="spring-cloud-alibaba-dubbo-provider-api" target="1.8" />
+      <module name="spring-cloud-alibaba-dubbo-provider-service" target="1.8" />
+      <module name="spring-cloud-alibaba-dubbo-starter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
